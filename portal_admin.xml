@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<data curr_d="6" curr_m="1" curr_y="2010"> 
+   <month label="DEZEMBRO" id="12"> 
+      <day id="2"> 
+              <event> 
+                    <title>Sobremesa Musical - Cordas da Orquestra Filarmônica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2493471</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>O futuro da pesquisa e Pós-Graduação é debatido em palestra transmitida via internet</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505486</link> 
+                    <start_date>14h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>mms://stream.pucrs.br/palestrape</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Diálogos em Pesquisa - Pesquisas brasileiras e americanas em Psicologia - Ricardo Pietrobon</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505483</link> 
+                    <start_date>14h</start_date> 
+                    <end_date>às 16h30min</end_date> 
+                    <location>Auditório do 9º andar do prédio 11, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="4"> 
+               <event> 
+                    <title>Exame de proficiência TOEFL - Internet-based test</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2493474</link> 
+                    <start_date>10h</start_date> 
+                    <end_date></end_date> 
+                    <location>Laboratório de Línguas da Fale, 5º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="5"> 
+               <event> 
+                    <title>Curso de Preparo de Alimentos Integrais</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445492</link> 
+                    <start_date>9h SAB</start_date> 
+                    <end_date>às 13h SAB</end_date> 
+                    <location>Laboratório Ciência e Arte dos Alimentos, sala 110 do prédio 41, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Por que a democracia se tornou dominante e consolidada apenas no século 20?</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505477</link> 
+                    <start_date>19h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="8"> 
+               <event> 
+                    <title>Grupo de Estudos sobre Literatura Infantil - Clube do Livro da Fale - Aventuras do Barão de Münchhausen</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519477</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Arena do Celin, 2º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Sobremesa Musical - Quinteto de Metais e Percussão da Orquestra Filarmônica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519480</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="11"> 
+               <event> 
+                    <title>Exame de proficiência TOEFL</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519483</link> 
+                    <start_date>10h</start_date> 
+                    <end_date></end_date> 
+                    <location>Laboratório de Línguas, 5º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Atividades do Projeto Acalanto</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2533474</link> 
+                    <start_date>12/12 SAB</start_date> 
+                    <end_date>13/12 DOM</end_date> 
+                    <location>Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Realização das provas do Concurso Vestibular de Verão</title> 
+                    <link></link> 
+                    <start_date>12/12 SAB</start_date> 
+                    <end_date>13/12 DOM</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="14"> 
+               <event> 
+                    <title>Último dia para requerer trancamento de matrícula ou cancelamento de disciplinas</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519486</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestras Kitsch as Radical Evil: On Kundera and Broch e The Evolutionary Task of the Poet</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2481474</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="16"> 
+               <event> 
+                    <title>Período de realização das provas do G2</title> 
+                    <link></link> 
+                    <start_date>16/12 SAB</start_date> 
+                    <end_date>22/12 SAB</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Encerramento da temporada 2009 do Sobremesa Musical</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2565480</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="17"> 
+               <event> 
+                    <title>Apresentação de Contos de Natal</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2579471</link> 
+                    <start_date>18h</start_date> 
+                    <end_date></end_date> 
+                    <location>Arena do Celin, sala 223 do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Apresentação dos primeiros módulos fotovoltaicos com células inéditas</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519471</link> 
+                    <start_date>16h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório Talento Empreendedor do Tecnopuc, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Avaliação Institucional no Campus Central: Avaliação de Infraestrutura, Comunicação e Atenção ao Corpo Discente, Docente e Técnico Administrativo</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2643474</link> 
+                    <start_date>17/12 SAB DOM</start_date> 
+                    <end_date>15/1 SAB DOM</end_date> 
+                    <location>Internet</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="18"> 
+               <event> 
+                    <title>Celebração religiosa preparatória ao Natal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Último dia para entrega das atas de aproveitamento do 2º período (até 11h30min)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="25"> 
+               <event> 
+                    <title>Natal - Nascimento de Cristo - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JANEIRO" id="1"> 
+      <day id="1"> 
+              <event> 
+                    <title>Confraternização Universal - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="5"> 
+               <event> 
+                    <title>Capacitação de Docentes</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Matrícula conforme esquema de cada Faculdade</title> 
+                    <link></link> 
+                    <start_date>7/1</start_date> 
+                    <end_date>14/1</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="27"> 
+               <event> 
+                    <title>Matrícula dos candidatos classificados em 2ª chamada no Concurso Vestibular de Verão</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="29"> 
+               <event> 
+                    <title>Matrícula dos candidatos selecionados da Lista de Espera da 2ª chamada do Concurso Vestibular de Verão, conforme classificação</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="FEVEREIRO" id="2"> 
+      <day id="2"> 
+              <event> 
+                    <title>Nossa Senhora dos Navegantes - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="MARÇO" id="3"> 
+      <day id="1"> 
+              <event> 
+                    <title>Reuniões de Professores</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="2"> 
+               <event> 
+                    <title>Início das aulas do 1º período</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Pedidos de aproveitamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>3/3</start_date> 
+                    <end_date>12/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Complementação do requerimento de matrícula e recursos relativos à matrícula</title> 
+                    <link></link> 
+                    <start_date>3/3</start_date> 
+                    <end_date>9/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="8"> 
+               <event> 
+                    <title>Requerimento de formatura</title> 
+                    <link></link> 
+                    <start_date>8/3</start_date> 
+                    <end_date>25/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="10"> 
+               <event> 
+                    <title>Recepção aos novos alunos - Stand de Calouros</title> 
+                    <link></link> 
+                    <start_date>10/3</start_date> 
+                    <end_date>11/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="22"> 
+               <event> 
+                    <title>Inscrições no Programa de Crédito Educativo da PUCRS - Credpuc</title> 
+                    <link></link> 
+                    <start_date>22/3</start_date> 
+                    <end_date>15/4</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Celebração preparatória à Páscoa</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="ABRIL" id="4"> 
+      <day id="1"> 
+              <event> 
+                    <title>Semana Santa - Feriado Escolar</title> 
+                    <link></link> 
+                    <start_date>1/4</start_date> 
+                    <end_date>3/4</end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="19"> 
+               <event> 
+                    <title>Início das inscrições para transferência, reopção, reopção no mesmo curso, ingresso mediante diploma de curso superior e complementação, em função das vagas e de acordo com as Faculdades</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="21"> 
+               <event> 
+                    <title>Tiradentes - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="MAIO" id="5"> 
+      <day id="1"> 
+              <event> 
+                    <title>Dia do Trabalho - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="10"> 
+               <event> 
+                    <title>Semana da Solidariedade</title> 
+                    <link></link> 
+                    <start_date>10/5</start_date> 
+                    <end_date>15/5</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="24"> 
+               <event> 
+                    <title>Avaliação de disciplinas por professores e alunos</title> 
+                    <link></link> 
+                    <start_date>24/5</start_date> 
+                    <end_date>2/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JUNHO" id="6"> 
+      <day id="1"> 
+              <event> 
+                    <title>Pedidos de reingresso</title> 
+                    <link></link> 
+                    <start_date>1/6</start_date> 
+                    <end_date>30/6</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Corpus Christi - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="6"> 
+               <event> 
+                    <title>Dia de São Marcelino Champagnat</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location></location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Momento Formandos</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="19"> 
+               <event> 
+                    <title>Realização das provas do Concurso Vestibular de Inverno</title> 
+                    <link></link> 
+                    <start_date>19/6 SAB DOM</start_date> 
+                    <end_date>20/6 SAB DOM</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Último dia para requerer trancamento de matrícula ou cancelamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JULHO" id="7"> 
+      <day id="5"> 
+              <event> 
+                    <title>Período de realização das provas do G2</title> 
+                    <link></link> 
+                    <start_date>5/7</start_date> 
+                    <end_date>10/7 SAB</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Último dia para entrega das atas de aproveitamento do 1º período (até 11h30min)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="13"> 
+               <event> 
+                    <title>Capacitação de Docentes</title> 
+                    <link></link> 
+                    <start_date>13/7</start_date> 
+                    <end_date>15/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="22"> 
+               <event> 
+                    <title>Matrícula conforme esquema de cada Faculdade</title> 
+                    <link></link> 
+                    <start_date>22/7</start_date> 
+                    <end_date>29/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Início das formaturas</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Reuniões de Professores (a critério das Faculdades)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="AGOSTO" id="8"> 
+      <day id="2"> 
+              <event> 
+                    <title>Início das aulas do 2º período</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Complementação do requerimento de matrícula e recursos relativos à matrícula</title> 
+                    <link></link> 
+                    <start_date>3/8</start_date> 
+                    <end_date>9/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="4"> 
+               <event> 
+                    <title>Pedidos de aproveitamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>4/8</start_date> 
+                    <end_date>13/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Requerimento de formatura</title> 
+                    <link></link> 
+                    <start_date>9/8</start_date> 
+                    <end_date>25/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>11º Salão de Iniciação Científica</title> 
+                    <link></link> 
+                    <start_date>9/8</start_date> 
+                    <end_date>12/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Inscrições no Programa de Crédito Educativo da PUCRS - Credpuc</title> 
+                    <link></link> 
+                    <start_date>23/8</start_date> 
+                    <end_date>14/9</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="26"> 
+               <event> 
+                    <title>Recepção aos novos alunos - Stand de Calouros</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="SETEMBRO" id="9"> 
+      <day id="6"> 
+              <event> 
+                    <title>Suspensão das aulas para atividades de planejamento</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Independência do Brasil - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="16"> 
+               <event> 
+                    <title>Início das inscrições para transferência, reopção, reopção no mesmo curso, ingresso mediante diploma de curso superior e complementação, em função das vagas e de acordo com as Faculdades</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="20"> 
+               <event> 
+                    <title>Revolução Farroupilha - Feriado Estadual</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="OUTUBRO" id="10"> 
+      <day id="7"> 
+              <event> 
+                    <title>Nossa Senhora do Rosário, Padroeira da Universidade (sem suspensão das aulas)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Nossa Senhora Aparecida, Padroeira do Brasil - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="15"> 
+               <event> 
+                    <title>Dia do Professor e do Auxiliar de Administração Escolar - Feriado Escolar</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="25"> 
+               <event> 
+                    <title>Avaliação de disciplinas por professores e alunos</title> 
+                    <link></link> 
+                    <start_date>25/10</start_date> 
+                    <end_date>3/12</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="27"> 
+               <event> 
+                    <title>Momento Formandos</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="NOVEMBRO" id="11"> 
+      <day id="1"> 
+              <event> 
+                    <title>Suspensão das aulas para atividades de planejamento</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="2"> 
+               <event> 
+                    <title>Finados - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Pedidos de reingresso</title> 
+                    <link></link> 
+                    <start_date>3/11</start_date> 
+                    <end_date>30/11</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Aniversário da Universidade (sem suspensão das aulas)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="15"> 
+               <event> 
+                    <title>Proclamação da República - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Último dia para requerer trancamento de matrícula ou cancelamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+</data>

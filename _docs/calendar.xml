@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data curr_d=”19” curr_m=”12” curr_y=”2007”>
+	<month label="DEZEMBRO" id="12">
+		<day id="5">
+			<event>
+				<title>Teste de inserção de item</title>
+				<link></link>
+				<start_date>5/12</start_date>
+				<end_date>11/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>2</type_id>
+			</event>
+			<event>
+				<title>Outro teste de informação de item</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date>11/12</end_date>
+				<location></location>
+				<type_id>3</type_id>
+			</event>
+		</day>
+	</month>
+	<month label="JANEIRO" id="1">
+		<day id="5">
+			<event>
+				<title>Teste de inserção de item</title>
+				<link></link>
+				<start_date>5/12</start_date>
+				<end_date>11/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>2</type_id>
+			</event>
+			<event>
+				<title>Outro teste de informação de item</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date>11/12</end_date>
+				<location></location>
+				<type_id>3</type_id>
+			</event>
+		</day>
+		<day id="11">
+			<event>
+				<title>III CITAD - Congresso Nacional Disciplinar</title>
+				<link></link>
+				<start_date>11/12</start_date>
+				<end_date>25/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>3</type_id>
+			</event>
+			<event>
+				<title>21º Set Universitário - RBS Debates</title>
+				<link>http://www.clicrbs.com.br/</link>
+				<start_date></start_date>
+				<end_date>19h30min</end_date>
+				<location>Centro de Eventos</location>
+				<type_id>3</type_id>
+			</event>
+			<event>
+				<title>Último dia para entrega das atas de aproveitamento do 2º período</title>
+				<link></link>
+				<start_date>11h</start_date>
+				<end_date></end_date>
+				<location></location>
+				<type_id>2</type_id>
+			</event>
+			<event>
+				<title>Natal - Nascimento de Cristo (Feriado Nacional)</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date></end_date>
+				<location></location>
+				<type_id>1</type_id>
+			</event>
+			<event>
+				<title>Celebração de Natal</title>
+				<link></link>
+				<start_date>Hoje</start_date>
+				<end_date></end_date>
+				<location>Campus Central</location>
+				<type_id>2</type_id>
+			</event>
+		</day>
+		<day id="13">
+			<event>
+				<title>Teste de inserção de item</title>
+				<link></link>
+				<start_date>13/12</start_date>
+				<end_date>21/1</end_date>
+				<location>Salão de Atos</location>
+				<type_id>2</type_id>
+			</event>
+		</day>
+		<day id="26">
+			<event>
+				<title>Feriado genérico</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date></end_date>
+				<location></location>
+				<type_id>1</type_id>
+			</event>
+		</day>
+		<day id="27">
+			<event>
+				<title>CITAD - Congresso Nacional Disciplinar</title>
+				<link></link>
+				<start_date>27/12</start_date>
+				<end_date>30/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>3</type_id>
+			</event>
+		</day>
+		<day id="28">
+			<event>
+				<title>Feriado genérico</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date></end_date>
+				<location></location>
+				<type_id>1</type_id>
+			</event>
+			<event>
+				<title>Teste de inserção de item</title>
+				<link></link>
+				<start_date>28/12</start_date>
+				<end_date>30/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>2</type_id>
+			</event>
+		</day>
+	</month>
+	<month label="FEVEREIRO" id="2">
+		<day id="28">
+			<event>
+				<title>Feriado genérico</title>
+				<link></link>
+				<start_date></start_date>
+				<end_date></end_date>
+				<location></location>
+				<type_id>1</type_id>
+			</event>
+			<event>
+				<title>Teste de inserção de item</title>
+				<link></link>
+				<start_date>28/12</start_date>
+				<end_date>30/12</end_date>
+				<location>Salão de Atos</location>
+				<type_id>2</type_id>
+			</event>
+		</day>
+	</month>
+</data>

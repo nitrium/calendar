@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<data curr_d="9" curr_m="1" curr_y="2010"> 
+   <month label="NOVEMBRO" id="11"> 
+      <day id="2"> 
+              <event> 
+                    <title>Finados - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Pedidos de reingresso</title> 
+                    <link></link> 
+                    <start_date>3/11 SAB</start_date> 
+                    <end_date>30/11 SAB</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>10º Seminário Internacional da Comunicação</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2319471</link> 
+                    <start_date>3/11</start_date> 
+                    <end_date>5/11</end_date> 
+                    <location>Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Metafísica e Epistemologia - Fred Adams - Gary Fuller</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2353477</link> 
+                    <start_date>3/11</start_date> 
+                    <end_date>4/11</end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Outorga do título de Doutor Honoris Causa a Michel Maffesoli</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2343510</link> 
+                    <start_date>10h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="4"> 
+               <event> 
+                    <title>Sobremesa Musical - Camerata da Orquestra Filarmônica da PUCRS</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2357489</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Ano Internacional da Astronomia - Palestra A Astrofísica do século 21 - Basílio Santiago</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2363548</link> 
+                    <start_date>18h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 10, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Diversificando Investimentos através de Commodities Agrícolas - Matheus Garcez da Silva - Gregori Zamprogna</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2363551</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="5"> 
+               <event> 
+                    <title>5º Simpósio de Gestão de Tecnologia da Informação - Governança de TI - Processo de Adoção e Resultados</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2357492</link> 
+                    <start_date>19h30min</start_date> 
+                    <end_date>às 22h30min</end_date> 
+                    <location>Auditório térreo do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Fórum de Gestão do Conhecimento - Palestra Modelo de maturidade para avaliar práticas de Gestão do Conhecimento</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2371523</link> 
+                    <start_date>18h30min</start_date> 
+                    <end_date>às 19h30min</end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Oficina do Laboratório de Atividades Múltiplas - Práticas Corporais: Vivenciando a formação pessoal do adulto - Dirce Hechler Herbertz</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2349624</link> 
+                    <start_date>9h SAB</start_date> 
+                    <end_date>às 12h</end_date> 
+                    <location>Sala 217 do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="8"> 
+               <event> 
+                    <title>13º Encontro Brasileiro sobre o Ensino de Engenharia Química (ENBEQ)</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2331474</link> 
+                    <start_date>8/11</start_date> 
+                    <end_date>11/11</end_date> 
+                    <location>Hotel Continental, Canela/RS</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Aniversário da Universidade</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Semana Acadêmica do Serviço Social</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2371520</link> 
+                    <start_date>9/11</start_date> 
+                    <end_date>11/11</end_date> 
+                    <location>Auditório do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Inscrições para Vestibular de Verão 2010</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2415563</link> 
+                    <start_date>9/11 SAB DOM</start_date> 
+                    <end_date>2/12 SAB DOM</end_date> 
+                    <location>www.pucrs.br/vestibular e Campus Central</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Copa do Mundo 2014 é debatida em Semana Acadêmica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2363554</link> 
+                    <start_date>9/11</start_date> 
+                    <end_date>10/11</end_date> 
+                    <location>Prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Inauguração do espaço Logos - Aprendizagem sem Fronteiras</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2385474</link> 
+                    <start_date>15h</start_date> 
+                    <end_date></end_date> 
+                    <location>Prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Seminário Economia às 5:30 - Desenvolvimento e meio ambiente na região metropolitana de Porto Alegre - Osmar Tomaz de Souza</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2383477</link> 
+                    <start_date>17h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="10"> 
+               <event> 
+                    <title>Exposição comemora 80 anos da Revista do Globo</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2375484</link> 
+                    <start_date>10/11 SAB</start_date> 
+                    <end_date>30/11 SAB</end_date> 
+                    <location>Saguão da Biblioteca, prédio 16, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Fé e Cultura - Universidade como agente social - Inês Amaro da Silva - Érico Hammes</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2383474</link> 
+                    <start_date>18h15min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Aula com Pipoca - A Experiência, do diretor Oliver Hirschbiegel - Clarice Beatriz da Costa Sohngen - Maria Lúcia Tiellet Nunes</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2383480</link> 
+                    <start_date>19h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="11"> 
+               <event> 
+                    <title>Sobremesa Musical - Recital de Violino e Piano</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2391486</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Seminário Hélice Tríplice na América Latina: conhecimento para a inovação</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2349615</link> 
+                    <start_date>11/11</start_date> 
+                    <end_date>13/11</end_date> 
+                    <location>Teatro do prédio 40, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Como administrar finanças pessoais - Marcelo Fayh - Antônio Marcos Giongo</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2391480</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Palestra O ser humano e a morte: esperanças e temores - Reinholdo Aloysio Ullmann</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2407543</link> 
+                    <start_date>19h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="13"> 
+               <event> 
+                    <title>Ciclo de Palestras Projetos de Filosofia - O infinito atual - Roberto Pich</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2391483</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>PET-Inf - SeminaPaper - Um álbum de fotos interativo feito em ActionScript 3 - Maurício Souza Klein</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2413471</link> 
+                    <start_date>14h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Sala 207 do prédio 32, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>4º Encontro Brasileiro de Psicologia Aplicada à Aviação e 1º Seminário Internacional de Segurança Operacional da Região Sul</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2357486</link> 
+                    <start_date>13/11</start_date> 
+                    <end_date>14/11 SAB</end_date> 
+                    <location>Auditório do prédio 40, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>2º Encontro Científico de Fisioterapia do Hospital São Lucas e Faculdade de Enfermagem, Nutrição e Fisioterapia - Amputados e Fisioterapia Esportiva</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2375487</link> 
+                    <start_date>13/11</start_date> 
+                    <end_date>14/11 SAB</end_date> 
+                    <location>Centro de Reabilitação, prédio 84, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="15"> 
+               <event> 
+                    <title>Proclamação da República - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="16"> 
+               <event> 
+                    <title>Semana do Empreendedorismo</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2415575</link> 
+                    <start_date>16/11</start_date> 
+                    <end_date>20/11</end_date> 
+                    <location>Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Seminário Economia às 5:30 - Instrumentos de Política Ambiental Aplicáveis às Águas: o caso do Lago Guaíba - Cassiano Drum - Marcos Godecke</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2419471</link> 
+                    <start_date>17h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="17"> 
+               <event> 
+                    <title>6ª Feira do Livro Infantil do HSL</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2391477</link> 
+                    <start_date>17/11</start_date> 
+                    <end_date>18/11</end_date> 
+                    <location>Saguão do 5º andar do HSL, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Simpósio debate Direito Privado e Processo Civil</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2427471</link> 
+                    <start_date>17/11</start_date> 
+                    <end_date>18/11</end_date> 
+                    <location>Prédio 11, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Bioética em Debate 2 - Meio Ambiente: crises e perspectivas</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2415581</link> 
+                    <start_date>17/11</start_date> 
+                    <end_date>18/11</end_date> 
+                    <location>Auditório do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Adam Smith´s Moral Project in Comparison to Immanuel Kant´s - Christel Fricke</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2413474</link> 
+                    <start_date>10h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="18"> 
+               <event> 
+                    <title>7º Gre-Nal Feminino</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2419474</link> 
+                    <start_date>19h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Estádio Universitário do Parque Esportivo, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Sobremesa Musical - Recital de Trombone e Piano</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2427486</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Introdução ao Mercado de Ações - Andria Pereira</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2427477</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>3º Colóquio de Filosofia da Religião - O Natural e o Sobrenatural</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2415569</link> 
+                    <start_date>18/11</start_date> 
+                    <end_date>19/11</end_date> 
+                    <location>Auditório do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Educação Superior na Suíça - Campus e Pólos de Pesquisa - Siamak Rouhani</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2421474</link> 
+                    <start_date>16h</start_date> 
+                    <end_date></end_date> 
+                    <location>Sala 202 do prédio 40, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="20"> 
+               <event> 
+                    <title>2º Simpósio Nacional de Radiofarmácia</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=1965471</link> 
+                    <start_date>20/11 SAB DOM</start_date> 
+                    <end_date>22/11 SAB DOM</end_date> 
+                    <location>Auditório do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Ciclo de Palestras Projetos de Filosofia - O panteísmo dos estoicos - Reinholdo Ullmann</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445471</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Fórum pelo Dia Nacional da Consciência Negra - Diálogos sobre diversidade e condição humana</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445483</link> 
+                    <start_date>19h</start_date> 
+                    <end_date></end_date> 
+                    <location>Sala 240 do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="21"> 
+               <event> 
+                    <title>2º Simpósio de Hipertensão Pulmonar</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445477</link> 
+                    <start_date>8h30min SAB</start_date> 
+                    <end_date>às 12h30min SAB</end_date> 
+                    <location>Sala de aula do pós-graduação da Famed, 3º andar do HSL, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Exame de proficiência TOEFL - Internet-based test</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2427474</link> 
+                    <start_date>10h SAB</start_date> 
+                    <end_date></end_date> 
+                    <location>Laboratório de Línguas, 5º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Banca aí vou eu! - Dicas para enfrentar o TCC</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2453474</link> 
+                    <start_date>9h SAB</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Momento Face do Aluno - Inovação e Eco eficiência: mostrando as práticas da PUCRS - Patrícia Nasi Sandes</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2461474</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Seminário Economia às 5:30 - Impactos do Polo Naval de Rio Grande no emprego e na renda da economia gaúcha - Flávio Tosi Feijó</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2461477</link> 
+                    <start_date>17h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="24"> 
+               <event> 
+                    <title>Atividades comemorativas aos 70 anos da Faced</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2471473</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Exposição Arte, Processualidade e Diferença</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2487474</link> 
+                    <start_date>24/11 SAB</start_date> 
+                    <end_date>4/12 SAB</end_date> 
+                    <location>Saguão do 2º andar do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="25"> 
+               <event> 
+                    <title>36 anos do Instituto de Geriatria e Gerontologia</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2469477</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Sobremesa Musical - Músicas Natalinas - Coral da Totalidade</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2469474</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Melhores Opções de Investimentos - Isabele Carneiro</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2467471</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>(R)Evolução de Darwin - Conferência Fósseis e evolução - Maria Cláudia Malabarba</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2437480</link> 
+                    <start_date>18h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Anfiteatro do prédio 40, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Campeonato Brasileiro de Ginástica Artística e Ginástica Rítmica | 2ª Etapa do Circuito Caixa de Ginástica Artística e Ginástica Rítmica | 1º Fórum Brasileiro de Ginástica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2461483</link> 
+                    <start_date>25/11 SAB DOM</start_date> 
+                    <end_date>29/11 SAB DOM</end_date> 
+                    <location>Parque Esportivo, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="26"> 
+               <event> 
+                    <title>Dia de Ação de Graças</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2481486</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Laboratório de Atividades Múltiplas - Oficina do Círculo de Cultura</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2407534</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 18h45min</end_date> 
+                    <location>Sala 217 do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Astronomia das navegações na época dos descobrimentos - João Batista Siqueira Harres</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445480</link> 
+                    <start_date>18h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 10, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Mercado de Capitais em Vídeo - The Smartest Guys in the Room - Os Mais Espertos da Sala - Bernardo Fonseca Nunes</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2461471</link> 
+                    <start_date>18h</start_date> 
+                    <end_date>às 19h</end_date> 
+                    <location>Sala 705 do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="27"> 
+               <event> 
+                    <title>SeminaPaper - Design de Websites com o padrão Tableless</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2477486</link> 
+                    <start_date>14h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Sala 207 do prédio 32, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestra Greve virtual no Second Life: impactos nas negociações coletivas - Manuel Martin Pino Estrada</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2487486</link> 
+                    <start_date>19h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="28"> 
+               <event> 
+                    <title>Laboratório de Atividades Múltiplas - Oficina Histórias de vida e pesquisa autobiográfica - Roberto Sanches Rabêllo</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445474</link> 
+                    <start_date>9h SAB</start_date> 
+                    <end_date>às 12h SAB</end_date> 
+                    <location>Sala 217 do prédio 15, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="DEZEMBRO" id="12"> 
+      <day id="1"> 
+              <event> 
+                    <title>3º Encontro das Instituições de Ensino Superior (IES)</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2499471</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Ssalas 601 e 602 do prédio 40, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Aula com Pipoca - Gattaca - José Roberto Goldim - Érico Hammes</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2497471</link> 
+                    <start_date>19h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="2"> 
+               <event> 
+                    <title>Sobremesa Musical - Cordas da Orquestra Filarmônica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2493471</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>O futuro da pesquisa e Pós-Graduação é debatido em palestra transmitida via internet</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505486</link> 
+                    <start_date>14h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>mms://stream.pucrs.br/palestrape</location> 
+                    <type_id>3</type_id> 
+               </event> 
+              <event> 
+                    <title>Diálogos em Pesquisa - Pesquisas brasileiras e americanas em Psicologia - Ricardo Pietrobon</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505483</link> 
+                    <start_date>14h</start_date> 
+                    <end_date>às 16h30min</end_date> 
+                    <location>Auditório do 9º andar do prédio 11, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="4"> 
+               <event> 
+                    <title>Exame de proficiência TOEFL - Internet-based test</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2493474</link> 
+                    <start_date>10h</start_date> 
+                    <end_date></end_date> 
+                    <location>Laboratório de Línguas da Fale, 5º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="5"> 
+               <event> 
+                    <title>Curso de Preparo de Alimentos Integrais</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2445492</link> 
+                    <start_date>9h SAB</start_date> 
+                    <end_date>às 13h SAB</end_date> 
+                    <location>Laboratório Ciência e Arte dos Alimentos, sala 110 do prédio 41, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Por que a democracia se tornou dominante e consolidada apenas no século 20?</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2505477</link> 
+                    <start_date>19h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório térreo do prédio 5, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="8"> 
+               <event> 
+                    <title>Grupo de Estudos sobre Literatura Infantil - Clube do Livro da Fale - Aventuras do Barão de Münchhausen</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519477</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Arena do Celin, 2º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Sobremesa Musical - Quinteto de Metais e Percussão da Orquestra Filarmônica</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519480</link> 
+                    <start_date>13h</start_date> 
+                    <end_date>às 13h30min</end_date> 
+                    <location>Átrio do prédio 9, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="11"> 
+               <event> 
+                    <title>Exame de proficiência TOEFL</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519483</link> 
+                    <start_date>10h</start_date> 
+                    <end_date></end_date> 
+                    <location>Laboratório de Línguas, 5º andar do prédio 8, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Realização das provas do Concurso Vestibular de Verão</title> 
+                    <link></link> 
+                    <start_date>12/12 SAB</start_date> 
+                    <end_date>13/12 DOM</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="14"> 
+               <event> 
+                    <title>Último dia para requerer trancamento de matrícula ou cancelamento de disciplinas</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519486</link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Palestras Kitsch as Radical Evil: On Kundera and Broch e The Evolutionary Task of the Poet</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2481474</link> 
+                    <start_date>14h</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório do 9º andar do prédio 50, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="16"> 
+               <event> 
+                    <title>Período de realização das provas do G2</title> 
+                    <link></link> 
+                    <start_date>16/12 SAB</start_date> 
+                    <end_date>22/12 SAB</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="17"> 
+               <event> 
+                    <title>Apresentação dos primeiros módulos fotovoltaicos com células inéditas</title> 
+                    <link>http://www3.pucrs.br/portal/page/portal/pucrs/Capa/Noticias?p_itemid=2519471</link> 
+                    <start_date>16h30min</start_date> 
+                    <end_date></end_date> 
+                    <location>Auditório Talento Empreendedor do Tecnopuc, Campus Central</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="18"> 
+               <event> 
+                    <title>Celebração religiosa preparatória ao Natal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Último dia para entrega das atas de aproveitamento do 2º período (até 11h30min)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="25"> 
+               <event> 
+                    <title>Natal - Nascimento de Cristo - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JANEIRO" id="1"> 
+      <day id="1"> 
+              <event> 
+                    <title>Confraternização Universal - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="5"> 
+               <event> 
+                    <title>Capacitação de Docentes</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Matrícula conforme esquema de cada Faculdade</title> 
+                    <link></link> 
+                    <start_date>7/1</start_date> 
+                    <end_date>14/1</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="27"> 
+               <event> 
+                    <title>Matrícula dos candidatos classificados em 2ª chamada no Concurso Vestibular de Verão</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="29"> 
+               <event> 
+                    <title>Matrícula dos candidatos selecionados da Lista de Espera da 2ª chamada do Concurso Vestibular de Verão, conforme classificação</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="FEVEREIRO" id="2"> 
+      <day id="2"> 
+              <event> 
+                    <title>Nossa Senhora dos Navegantes - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="MARÇO" id="3"> 
+      <day id="1"> 
+              <event> 
+                    <title>Reuniões de Professores</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="2"> 
+               <event> 
+                    <title>Início das aulas do 1º período</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Pedidos de aproveitamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>3/3</start_date> 
+                    <end_date>12/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>Complementação do requerimento de matrícula e recursos relativos à matrícula</title> 
+                    <link></link> 
+                    <start_date>3/3</start_date> 
+                    <end_date>9/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="8"> 
+               <event> 
+                    <title>Requerimento de formatura</title> 
+                    <link></link> 
+                    <start_date>8/3</start_date> 
+                    <end_date>25/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="10"> 
+               <event> 
+                    <title>Recepção aos novos alunos - Stand de Calouros</title> 
+                    <link></link> 
+                    <start_date>10/3</start_date> 
+                    <end_date>11/3</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="22"> 
+               <event> 
+                    <title>Inscrições no Programa de Crédito Educativo da PUCRS - Credpuc</title> 
+                    <link></link> 
+                    <start_date>22/3</start_date> 
+                    <end_date>15/4</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Celebração preparatória à Páscoa</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="ABRIL" id="4"> 
+      <day id="1"> 
+              <event> 
+                    <title>Semana Santa - Feriado Escolar</title> 
+                    <link></link> 
+                    <start_date>1/4</start_date> 
+                    <end_date>3/4</end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="19"> 
+               <event> 
+                    <title>Início das inscrições para transferência, reopção, reopção no mesmo curso, ingresso mediante diploma de curso superior e complementação, em função das vagas e de acordo com as Faculdades</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="21"> 
+               <event> 
+                    <title>Tiradentes - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="MAIO" id="5"> 
+      <day id="1"> 
+              <event> 
+                    <title>Dia do Trabalho - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="10"> 
+               <event> 
+                    <title>Semana da Solidariedade</title> 
+                    <link></link> 
+                    <start_date>10/5</start_date> 
+                    <end_date>15/5</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="24"> 
+               <event> 
+                    <title>Avaliação de disciplinas por professores e alunos</title> 
+                    <link></link> 
+                    <start_date>24/5</start_date> 
+                    <end_date>2/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JUNHO" id="6"> 
+      <day id="1"> 
+              <event> 
+                    <title>Pedidos de reingresso</title> 
+                    <link></link> 
+                    <start_date>1/6</start_date> 
+                    <end_date>30/6</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Corpus Christi - Feriado Municipal</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="6"> 
+               <event> 
+                    <title>Dia de São Marcelino Champagnat</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location></location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Momento Formandos</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="19"> 
+               <event> 
+                    <title>Realização das provas do Concurso Vestibular de Inverno</title> 
+                    <link></link> 
+                    <start_date>19/6 SAB DOM</start_date> 
+                    <end_date>20/6 SAB DOM</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Último dia para requerer trancamento de matrícula ou cancelamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="JULHO" id="7"> 
+      <day id="5"> 
+              <event> 
+                    <title>Período de realização das provas do G2</title> 
+                    <link></link> 
+                    <start_date>5/7</start_date> 
+                    <end_date>10/7 SAB</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Último dia para entrega das atas de aproveitamento do 1º período (até 11h30min)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="13"> 
+               <event> 
+                    <title>Capacitação de Docentes</title> 
+                    <link></link> 
+                    <start_date>13/7</start_date> 
+                    <end_date>15/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="22"> 
+               <event> 
+                    <title>Matrícula conforme esquema de cada Faculdade</title> 
+                    <link></link> 
+                    <start_date>22/7</start_date> 
+                    <end_date>29/7</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Início das formaturas</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="30"> 
+               <event> 
+                    <title>Reuniões de Professores (a critério das Faculdades)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="AGOSTO" id="8"> 
+      <day id="2"> 
+              <event> 
+                    <title>Início das aulas do 2º período</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="3"> 
+               <event> 
+                    <title>Complementação do requerimento de matrícula e recursos relativos à matrícula</title> 
+                    <link></link> 
+                    <start_date>3/8</start_date> 
+                    <end_date>9/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="4"> 
+               <event> 
+                    <title>Pedidos de aproveitamento de disciplinas</title> 
+                    <link></link> 
+                    <start_date>4/8</start_date> 
+                    <end_date>13/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="9"> 
+               <event> 
+                    <title>Requerimento de formatura</title> 
+                    <link></link> 
+                    <start_date>9/8</start_date> 
+                    <end_date>25/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+              <event> 
+                    <title>11º Salão de Iniciação Científica</title> 
+                    <link></link> 
+                    <start_date>9/8</start_date> 
+                    <end_date>12/8</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="23"> 
+               <event> 
+                    <title>Inscrições no Programa de Crédito Educativo da PUCRS - Credpuc</title> 
+                    <link></link> 
+                    <start_date>23/8</start_date> 
+                    <end_date>14/9</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="26"> 
+               <event> 
+                    <title>Recepção aos novos alunos - Stand de Calouros</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="SETEMBRO" id="9"> 
+      <day id="6"> 
+              <event> 
+                    <title>Suspensão das aulas para atividades de planejamento</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="7"> 
+               <event> 
+                    <title>Independência do Brasil - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="16"> 
+               <event> 
+                    <title>Início das inscrições para transferência, reopção, reopção no mesmo curso, ingresso mediante diploma de curso superior e complementação, em função das vagas e de acordo com as Faculdades</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="20"> 
+               <event> 
+                    <title>Revolução Farroupilha - Feriado Estadual</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="OUTUBRO" id="10"> 
+      <day id="7"> 
+              <event> 
+                    <title>Nossa Senhora do Rosário, Padroeira da Universidade (sem suspensão das aulas)</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="12"> 
+               <event> 
+                    <title>Nossa Senhora Aparecida, Padroeira do Brasil - Feriado Nacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="15"> 
+               <event> 
+                    <title>Dia do Professor e do Auxiliar de Administração Escolar - Feriado Escolar</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+      <day id="25"> 
+               <event> 
+                    <title>Avaliação de disciplinas por professores e alunos</title> 
+                    <link></link> 
+                    <start_date>25/10</start_date> 
+                    <end_date>3/12</end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+      <day id="27"> 
+               <event> 
+                    <title>Momento Formandos</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+   <month label="NOVEMBRO" id="11"> 
+      <day id="8"> 
+              <event> 
+                    <title>Dia da Felicidade Internacional</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+	  <day id="14"> 
+              <event> 
+                    <title>Chocolates Lancy são ótimos para a saúde</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Bar da PUCRS</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+	  <day id="22"> 
+              <event> 
+                    <title>Outro evento aleatório digitado</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>3</type_id> 
+               </event> 
+      </day>
+   </month>
+	<month label="DEZEMBRO" id="12"> 
+      <day id="3"> 
+              <event> 
+                    <title>Teste de digitação de evento</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>-</location> 
+                    <type_id>1</type_id> 
+               </event> 
+      </day>
+	  <day id="15"> 
+              <event> 
+                    <title>Dia do décimo-terceiro salário</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>RH da PUCRS</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+	  <day id="25"> 
+              <event> 
+                    <title>Natal das crianças</title> 
+                    <link></link> 
+                    <start_date>Hoje</start_date> 
+                    <end_date></end_date> 
+                    <location>Campus PUCRS</location> 
+                    <type_id>2</type_id> 
+               </event> 
+      </day>
+   </month>
+</data>
